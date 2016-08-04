@@ -1,0 +1,46 @@
+_repo: Madame-de-Treymes_4518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: An American in Paris at the turn of the nineteenth century, John Durham
+  pays court to an old flame, Fanny Frisbee, now married to the dissolute Marquis
+  de Malrive. Devoutly Catholic, Fanny's husband is unlikely to grant her a divorce
+  or relinquish custody of their young son, who is heir to the family title. When
+  the Malrive family, urged by Fanny's enigmatic sister-in-law, Madame de Treymes,
+  agrees to a divorce, John must decide whether or not he will pursue a future with
+  the woman he loves, but which forces her to give up her son.</ Contrasting the simplicity
+  and practicality of John's brownstone in New York with the decadence and beauty
+  of the Saint-Germain district of Paris, <Madame de Treymes</ intelligently examines
+  the social role of women within two clashing cultures. The novella was inspired
+  by Edith Wharton's own entrance into Parisian society, and remains one of her best-loved
+  works of fiction.</ HarperPerennial Classics brings great works of literature to
+  life in digital format, upholding the highest standards in ebook production and
+  celebrating reading in all its forms. Look for more titles in the HarperPerennial
+  Classics collection to build your digital library.</
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Conduct of life -- Fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- GITenberg
+title: Madame de Treymes
+url: http://www.gutenberg.org/ebooks/4518
