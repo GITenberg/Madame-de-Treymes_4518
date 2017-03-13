@@ -1,5 +1,8 @@
 _repo: Madame-de-Treymes_4518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -28,6 +31,8 @@ description: An American in Paris at the turn of the nineteenth century, John Du
   life in digital format, upholding the highest standards in ebook production and
   celebrating reading in all its forms. Look for more titles in the HarperPerennial
   Classics collection to build your digital library.</
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4518#Madame-de-Treymes
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
